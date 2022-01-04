@@ -1,6 +1,8 @@
+---
 layout: template
 title: "Quizzes"
 filename: quizzes.md
+---
 
 ## Quizzes
 
