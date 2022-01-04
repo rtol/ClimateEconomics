@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Economic analysis of climate, climate change, and climate policy
 
-You can use the [editor on GitHub](https://github.com/rtol/ClimateEconomics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the resource site for [Richard Tol's](https://github.com/rtol/ClimateEconomics/edit/gh-pages/index.md) textbook _Climate Economics_.
+
+The 2nd edition of the book can be ordered from [Edward Elgar](https://www.e-elgar.com/shop/gbp/climate-economics-9781786435095.html) [Amazon UK](https://www.amazon.co.uk/Climate-Economics-Economic-Analysis-Change/dp/1786435098/), [Amazon USA](https://www.amazon.com/Climate-Economics-Economic-Analysis-Change/dp/1786435098/) or any other bookstore.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
