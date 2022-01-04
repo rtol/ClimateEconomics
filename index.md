@@ -1,4 +1,3 @@
-# Climate Economics
 ## Economic analysis of climate, climate change, and climate policy
 
 This is the resource site for [Richard Tol's](https://github.com/rtol/ClimateEconomics/edit/gh-pages/index.md) textbook _Climate Economics_.
