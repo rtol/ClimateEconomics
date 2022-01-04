@@ -1,6 +1,6 @@
 layout: page
 title: "Quizzes"
-permalink: /URL-PATH/
+permalink: /Quizzes/
 
 ## Quizzes
 
