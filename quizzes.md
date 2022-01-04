@@ -1,4 +1,4 @@
-layout: page
+layout: template
 title: "Quizzes"
 filename: quizzes.md
 
