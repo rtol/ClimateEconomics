@@ -1,6 +1,6 @@
 layout: page
 title: "Quizzes"
-permalink: /Quizzes/
+permalink: /ClimateEconomics/Quizzes
 
 ## Quizzes
 
