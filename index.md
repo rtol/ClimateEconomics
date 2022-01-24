@@ -1,4 +1,5 @@
-## Economic analysis of climate, climate change, and climate policy
+## Climate Economics
+### Economic analysis of climate, climate change, and climate policy
 
 This is the resource site for [Richard Tol's](https://www.ae-info.org/ae/Member/Tol_Richard) textbook _Climate Economics_.
 
