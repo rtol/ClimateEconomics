@@ -17,4 +17,4 @@ Quizzes come at two levels, undergraduate (UG) and postgraduate (PG)
 11. International agreements in theory [UG](http://www.surveygizmo.co.uk/s3/2149772/Quiz-UG-International-agreements-in-theory) [PG](http://survey.alchemer.com/s3/3268016/Quiz-PG-International-agreements-in-theory)
 12. International agreements in practice [UG](http://www.surveygizmo.co.uk/s3/2151579/Quiz-UG-International-agreements-in-practice) [PG](http://survey.alchemer.com/s3/3268015/Quiz-PG-International-agreements-in-practice)
 
-[home](https://rtol.github.io/ClimateEconomics/)
+[home](https://rtol.github.io/ClimateEconomics/) [slides](https://rtol.github.io/ClimateEconomics/slide/) [videos](https://rtol.github.io/ClimateEconomics/video/) [quizzes](https://rtol.github.io/ClimateEconomics/quiz/) [MLIAM](https://rtol.github.io/ClimateEconomics/mliam/)
