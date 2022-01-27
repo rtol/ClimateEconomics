@@ -1,3 +1,12 @@
 theme: jekyll-theme-midnight
 
+search_in_topnav: true
+
+# make search bar appear in sidebar?
+search_in_sidebar: false
+
+# in responsive view, show sidebar toggle button?
+toggle-sidebar-button: true
+
+# in responsive view, show navbar toggle button?
 navbar-toggle: true
