@@ -74,4 +74,8 @@ International environmental agreements
 * [International climate policy](https://www.youtube.com/watch?v=0mqPOMA2xIo) (49:54)
 * [Ozone hole and acid rain](https://www.youtube.com/watch?v=_XfrOb4oJa0) (40:44)
 
-[home](https://rtol.github.io/ClimateEconomics/) [slides](https://rtol.github.io/ClimateEconomics/slide/) [videos](https://rtol.github.io/ClimateEconomics/video/) [quizzes](https://rtol.github.io/ClimateEconomics/quiz/) [MLIAM](https://rtol.github.io/ClimateEconomics/mliam/)
+Recordings of live lectures
+* [Undergraduate](https://www.youtube.com/playlist?list=PLvvJAlifjaMZ9EXxFDL4O35YHd4i2t12l)
+* [Postgraduate](https://www.youtube.com/playlist?list=PLvvJAlifjaMa4Z_J8Aho8W7F-nv0zgtpF)
+
+[home](https://rtol.github.io/ClimateEconomics/)   [slides](https://rtol.github.io/ClimateEconomics/slide/)   [videos](https://rtol.github.io/ClimateEconomics/video/)   [quizzes](https://rtol.github.io/ClimateEconomics/quiz/)   [MLIAM](https://rtol.github.io/ClimateEconomics/mliam/)
