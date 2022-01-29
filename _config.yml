@@ -3,3 +3,6 @@ theme: jekyll-theme-midnight
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  
+twitter:
+  username: RichardTol
