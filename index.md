@@ -12,3 +12,5 @@ The following resources are there for students and professors:
 * [Videos](https://rtol.github.io/ClimateEconomics/video/) for teaching support and revision
 * [Quizzes](https://rtol.github.io/ClimateEconomics/quiz/) for revision and reflection
 * [MLIAM](https://rtol.github.io/ClimateEconomics/mliam/) for building and applying an integrated assessment model
+
+<a rel="me" href="https://mastodon.social/@richardtol">Mastodon</a>
