@@ -2,6 +2,7 @@
 ### Economic analysis of climate, climate change, and climate policy
 
 <img src="cover3.jpg" alt="Cauldron of Boiling Oil" align="right" width="200"/>
+
 This is the resource site for [Richard Tol's](https://www.ae-info.org/ae/Member/Tol_Richard) textbook _Climate Economics_.
 
 The 2nd edition of the book can be ordered from [Edward Elgar](https://www.e-elgar.com/shop/gbp/climate-economics-9781786435095.html), [Amazon UK](https://www.amazon.co.uk/Climate-Economics-Economic-Analysis-Change/dp/1786435098/), [Amazon USA](https://www.amazon.com/Climate-Economics-Economic-Analysis-Change/dp/1786435098/) or any other bookstore. The third edition is due in March 2023. It can now be [pre-ordered](https://www.amazon.co.uk/Climate-Economics-Economic-Analysis-Change/dp/1802205454/).
