@@ -1,1 +1,4 @@
 theme: jekyll-theme-midnight
+
+enable_google_verification: true  # enables google site verification
+google_site_verification:  # your google-site-verification ID (Google Search Console) 
