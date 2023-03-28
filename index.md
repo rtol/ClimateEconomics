@@ -7,7 +7,7 @@ This is the resource site for [Richard Tol's](https://www.ae-info.org/ae/Member/
 
 The third edition is out. It can be ordered at [Amazon UK](https://www.amazon.co.uk/Climate-Economics-Economic-Analysis-Change/dp/1802205454/), [Amazon US](https://www.amazon.com/Climate-Economics-Economic-Analysis-Change/dp/1802205454/), and from the [publisher](https://www.e-elgar.com/shop/gbp/climate-economics-9781802205459.html) (a 50% discount before 20 April, code Climate50).
 
-The third edition has a serious omission. It does not acknowledge the cover artist: [江逸子](https://www.pinterest.co.uk/pin/506866133039171165/). The rest of the series of paintings is [here](https://china-underground.com/2011/04/27/the-eighteen-layers-of-chinese-hell/).
+The third edition has a serious omission. It does not acknowledge the cover artist: [江逸子](https://baike.baidu.com/item/%E6%B1%9F%E9%80%B8%E5%AD%90/9800837). The rest of the series of paintings is [here](https://china-underground.com/2011/04/27/the-eighteen-layers-of-chinese-hell/).
 
 The 2nd edition of the book can be ordered from [Edward Elgar](https://www.e-elgar.com/shop/gbp/climate-economics-9781786435095.html), [Amazon UK](https://www.amazon.co.uk/Climate-Economics-Economic-Analysis-Change/dp/1786435098/), [Amazon USA](https://www.amazon.com/Climate-Economics-Economic-Analysis-Change/dp/1786435098/) or any other bookstore.
 
